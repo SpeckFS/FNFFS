@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="go-steam.png">
+	<!-- Created with OpenToonz lmfaoo -->
+	<!-- https://twitter.com/speckgb -->
+	<SubTexture name="Start0000" x="0" y="0" width="684" height="354"/>
+	<SubTexture name="Start0001" x="684" y="0" width="684" height="354"/>
+	<SubTexture name="Start0002" x="1368" y="0" width="684" height="354"/>
+	<SubTexture name="Start0003" x="2052" y="0" width="684" height="354"/>
+	<SubTexture name="Start0004" x="2052" y="0" width="684" height="354"/>
+	<SubTexture name="Start0005" x="2052" y="0" width="684" height="354"/>
+	<SubTexture name="Start0006" x="2052" y="0" width="684" height="354"/>
+	<SubTexture name="Start0007" x="2052" y="0" width="684" height="354"/>
+	<SubTexture name="Start0008" x="2052" y="0" width="684" height="354"/>
+	<SubTexture name="Start0009" x="2052" y="0" width="684" height="354"/>
+	<SubTexture name="Start0010" x="2052" y="0" width="684" height="354"/>
+	<SubTexture name="Start0011" x="2052" y="0" width="684" height="354"/>
+	<SubTexture name="Start0012" x="2052" y="0" width="684" height="354"/>
+	<SubTexture name="Start0013" x="2052" y="0" width="684" height="354"/>
+	<SubTexture name="Start0014" x="2052" y="0" width="684" height="354"/>
+	<SubTexture name="Start0015" x="2052" y="0" width="684" height="354"/>
+	</TextureAtlas>
+
+	
+

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="clocktower.png">
+	<!-- Created with OpenToonz lmfaoo -->
+	<!-- https://twitter.com/speckgb -->
+	<SubTexture name="Tick0000" x="0" y="0" width="1589" height="1400"/>
+	<SubTexture name="Tick0001" x="1589" y="0" width="1589" height="1400"/>
+	<SubTexture name="Tick0002" x="3178" y="0" width="1589" height="1400"/>
+	<SubTexture name="Tick0003" x="4767" y="0" width="1589" height="1400"/>
+	<SubTexture name="Tick0004" x="6356" y="0" width="1589" height="1400"/>
+	<SubTexture name="Tick0005" x="0" y="1400" width="1589" height="1400"/>
+	<SubTexture name="Tick0006" x="1589" y="1400" width="1589" height="1400"/>
+	<SubTexture name="Tick0007" x="3178" y="1400" width="1589" height="1400"/>
+	<SubTexture name="Tick0008" x="4767" y="1400" width="1589" height="1400"/>
+	<SubTexture name="Tick0009" x="6356" y="1400" width="1589" height="1400"/>
+	<SubTexture name="Tick0010" x="0" y="2800" width="1589" height="1400"/>
+	<SubTexture name="Tick0011" x="1589" y="2800" width="1589" height="1400"/>
+	<SubTexture name="Tick0012" x="3178" y="2800" width="1589" height="1400"/>
+	<SubTexture name="Tick0013" x="4767" y="2800" width="1589" height="1400"/>
+	<SubTexture name="Tick0014" x="6356" y="2800" width="1589" height="1400"/>
+	<SubTexture name="Tick0015" x="0" y="4200" width="1589" height="1400"/>
+	<SubTexture name="Tick0016" x="1589" y="4200" width="1589" height="1400"/>
+	<SubTexture name="Tick0017" x="3178" y="4200" width="1589" height="1400"/>
+	<SubTexture name="Tick0018" x="4767" y="4200" width="1589" height="1400"/>
+	<SubTexture name="Tick0019" x="6356" y="4200" width="1589" height="1400"/>
+	<SubTexture name="Tick0020" x="0" y="5600" width="1589" height="1400"/>
+	<SubTexture name="Tick0021" x="1589" y="5600" width="1589" height="1400"/>
+	<SubTexture name="Tick0022" x="3178" y="5600" width="1589" height="1400"/>
+	<SubTexture name="Tick0023" x="4767" y="5600" width="1589" height="1400"/>
+	</TextureAtlas>

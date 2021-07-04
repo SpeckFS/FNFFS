@@ -1,0 +1,19 @@
+Note.txt files will appear everywhere lol gotta remember to delete them when its time to drop the mod
+
+ALSO
+
+If you are on another os other than Mac (yes I developed this on Mac) you'll probably need to compile the game lol
+
+For people who don't know how to do that;
+
+1. Go to your terminal/task manager/control panel/toolbar or whatever
+
+2. CD into FNFFULLSTEAM
+
+3. Type this in and run --->  lime test Mac
+
+(Remember to replace 'Mac' with the name of your os!)
+
+All this will only work if you have all the directories and stuff installed for haxe, lime, and Kade-engine, ninjamuffin and kadedev have really good guides on their GitHub pages on how to do this
+
+Thres also some pretty good guides on gamebanana and tutorials from brightfyre that can help you understand how to start building fnf for your own mods

@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfsteam.png">
+	<!-- Unfinished Version! -->
+	<!-- I didn't mean to make her this slim my bad :/ -->
+	<SubTexture name="GfDance0000" x="0" y="0" width="385" height="534"/>
+	<SubTexture name="GfDance0001" x="385" y="0" width="385" height="534"/>
+	<SubTexture name="GfDance0002" x="770" y="0" width="385" height="534"/>
+	<SubTexture name="GfDance0003" x="1155" y="0" width="385" height="534"/>
+	<SubTexture name="GfDance0004" x="1540" y="0" width="385" height="534"/>
+	<SubTexture name="GfDance0005" x="1925" y="0" width="385" height="534"/>
+	<SubTexture name="GfDance0006" x="2310" y="0" width="385" height="534"/>
+	<SubTexture name="GfDance0007" x="0" y="534" width="385" height="534"/>
+	<SubTexture name="GfDance0008" x="385" y="534" width="385" height="534"/>
+	<SubTexture name="GfDance0009" x="770" y="534" width="385" height="534"/>
+	<SubTexture name="GfDance0010" x="1155" y="534" width="385" height="534"/>
+	<SubTexture name="GfDance0011" x="1540" y="534" width="385" height="534"/>
+	<SubTexture name="GfDance0012" x="1925" y="534" width="385" height="534"/>
+	<SubTexture name="GfDance0013" x="2310" y="534" width="385" height="534"/>
+	<SubTexture name="GfDance0014" x="0" y="1068" width="385" height="534"/>
+	
+	<SubTexture name="GfDance0015" x="385" y="1068" width="385" height="534"/>
+	<SubTexture name="GfDance0016" x="770" y="1068" width="385" height="534"/>
+	<SubTexture name="GfDance0017" x="1155" y="1068" width="385" height="534"/>
+	<SubTexture name="GfDance0018" x="1540" y="1068" width="385" height="534"/>
+	<SubTexture name="GfDance0019" x="1925" y="1068" width="385" height="534"/>
+	<SubTexture name="GfDance0020" x="2310" y="1068" width="385" height="534"/>
+	<SubTexture name="GfDance0021" x="0" y="1602" width="385" height="534"/>
+	<SubTexture name="GfDance0022" x="385" y="1602" width="385" height="534"/>
+	<SubTexture name="GfDance0023" x="770" y="1602" width="385" height="534"/>
+	<SubTexture name="GfDance0024" x="1155" y="1602" width="385" height="534"/>
+	<SubTexture name="GfDance0025" x="1540" y="1602" width="385" height="534"/>
+	<SubTexture name="GfDance0026" x="1925" y="1602" width="385" height="534"/>
+	<SubTexture name="GfDance0027" x="2310" y="1602" width="385" height="534"/>
+	<SubTexture name="GfDance0028" x="0" y="2136" width="385" height="534"/>
+	<SubTexture name="GfDance0029" x="385" y="2136" width="385" height="534"/>
+	
+	<SubTexture name="GfPog0000" x="0" y="0" width="385" height="534"/>
+	
+	<SubTexture name="GfLeft0000" x="0" y="0" width="385" height="534"/>
+	
+	<SubTexture name="GfRight0000" x="0" y="0" width="385" height="534"/>
+	
+	<SubTexture name="GfUp0000" x="0" y="0" width="385" height="534"/>
+	
+	<SubTexture name="GfDown0000" x="0" y="0" width="385" height="534"/>
+	
+	<SubTexture name="GfSad0000" x="770" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0001" x="1155" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0002" x="1540" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0003" x="1925" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0004" x="2310" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0005" x="0" y="2670" width="385" height="534"/>
+	<SubTexture name="GfSad0006" x="385" y="2670" width="385" height="534"/>
+	<SubTexture name="GfSad0000" x="770" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0001" x="1155" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0002" x="1540" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0003" x="1925" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0004" x="2310" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0005" x="0" y="2670" width="385" height="534"/>
+	<SubTexture name="GfSad0006" x="385" y="2670" width="385" height="534"/>
+	<SubTexture name="GfSad0007" x="770" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0008" x="1155" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0009" x="1540" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0010" x="1925" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0011" x="2310" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0012" x="0" y="2670" width="385" height="534"/>
+	<SubTexture name="GfSad0013" x="385" y="2670" width="385" height="534"/>
+	<SubTexture name="GfSad0014" x="770" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0015" x="1155" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0016" x="1540" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0017" x="1925" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0018" x="2310" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0019" x="0" y="2670" width="385" height="534"/>
+	<SubTexture name="GfSad0020" x="385" y="2670" width="385" height="534"/>
+	<SubTexture name="GfSad0021" x="770" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0022" x="1155" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0023" x="1540" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0024" x="1925" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0025" x="2310" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0026" x="0" y="2670" width="385" height="534"/>
+	<SubTexture name="GfSad0027" x="385" y="2670" width="385" height="534"/>
+	<SubTexture name="GfSad0028" x="770" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0029" x="1155" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0030" x="1540" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0031" x="1925" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0032" x="2310" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0033" x="0" y="2670" width="385" height="534"/>
+	<SubTexture name="GfSad0034" x="385" y="2670" width="385" height="534"/>
+	<SubTexture name="GfSad0035" x="770" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0036" x="1155" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0037" x="1540" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0038" x="1925" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0039" x="2310" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0040" x="0" y="2670" width="385" height="534"/>
+	<SubTexture name="GfSad0041" x="385" y="2670" width="385" height="534"/>
+	<SubTexture name="GfSad0042" x="770" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0043" x="1155" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0044" x="1540" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0045" x="1925" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0046" x="2310" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0047" x="0" y="2670" width="385" height="534"/>
+	<SubTexture name="GfSad0048" x="385" y="2670" width="385" height="534"/>
+	<SubTexture name="GfSad0049" x="770" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0050" x="1155" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0051" x="1540" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0052" x="1925" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0053" x="2310" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0054" x="0" y="2670" width="385" height="534"/>
+	<SubTexture name="GfSad0055" x="385" y="2670" width="385" height="534"/>
+	<SubTexture name="GfSad0056" x="770" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0057" x="1155" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0058" x="1540" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0059" x="1925" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0060" x="2310" y="2136" width="385" height="534"/>
+	<SubTexture name="GfSad0061" x="0" y="2670" width="385" height="534"/>
+	<SubTexture name="GfSad0062" x="385" y="2670" width="385" height="534"/>
+	
+	
+	<SubTexture name="GfBlowHaha0000" x="0" y="0" width="385" height="534"/>
+	<SubTexture name="GfBlowHaha0001" x="0" y="0" width="385" height="534"/>
+	<SubTexture name="GfBlowHaha0002" x="0" y="0" width="385" height="534"/>
+	<SubTexture name="GfBlowHaha0003" x="0" y="0" width="385" height="534"/>
+	<SubTexture name="GfBlowHaha0004" x="0" y="0" width="385" height="534"/>
+	<SubTexture name="GfBlowHaha0005" x="0" y="0" width="385" height="534"/>
+	<SubTexture name="GfBlowHaha0006" x="0" y="0" width="385" height="534"/>
+	<SubTexture name="GfBlowHaha0007" x="0" y="0" width="385" height="534"/>
+	<SubTexture name="GfBlowHaha0008" x="0" y="0" width="385" height="534"/>
+	<SubTexture name="GfBlowHaha0009" x="0" y="0" width="385" height="534"/>
+	<SubTexture name="GfBlowHaha0010" x="0" y="0" width="385" height="534"/>
+	
+	<SubTexture name="GfScared0000" x="770" y="2670" width="385" height="534"/>
+	<SubTexture name="GfScared0001" x="1155" y="2670" width="385" height="534"/>
+	<SubTexture name="GfScared0002" x="1540" y="2670" width="385" height="534"/>
+	<SubTexture name="GfScared0003" x="1925" y="2670" width="385" height="534"/>
+
+</TextureAtlas>

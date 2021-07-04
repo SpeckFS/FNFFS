@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lucy_assets.png">
+	<!-- Created with OpenToonz lmfaoo -->
+	<!-- https://twitter.com/speckgb -->
+	<SubTexture name="Idle0000" x="0" y="0" width="601" height="812"/>
+	<SubTexture name="Idle0001" x="601" y="0" width="601" height="812"/>
+	<SubTexture name="Idle0002" x="1202" y="0" width="601" height="812"/>
+	<SubTexture name="Idle0003" x="1803" y="0" width="601" height="812"/>
+	<SubTexture name="Idle0004" x="2404" y="0" width="601" height="812"/>
+	<SubTexture name="Idle0005" x="3005" y="0" width="601" height="812"/>
+	<SubTexture name="Idle0006" x="0" y="812" width="601" height="812"/>
+	<SubTexture name="Idle0007" x="601" y="812" width="601" height="812"/>
+	<SubTexture name="Idle0008" x="1202" y="812" width="601" height="812"/>
+	<SubTexture name="Idle0009" x="1803" y="812" width="601" height="812"/>
+	<SubTexture name="Idle0010" x="2404" y="812" width="601" height="812"/>
+	<SubTexture name="Idle0011" x="3005" y="812" width="601" height="812"/>
+	<SubTexture name="Idle0012" x="0" y="1624" width="601" height="812"/>
+	<SubTexture name="Idle0013" x="0" y="1624" width="601" height="812"/>
+	<SubTexture name="Idle0014" x="0" y="1624" width="601" height="812"/>
+	
+	<SubTexture name="LucyLeft0000" x="601" y="1624" width="601" height="812"/>
+	<SubTexture name="LucyLeft0001" x="1202" y="1624" width="601" height="812"/>
+	<SubTexture name="LucyLeft0002" x="1803" y="1624" width="601" height="812"/>
+	<SubTexture name="LucyLeft0003" x="2404" y="1624" width="601" height="812"/>
+	<SubTexture name="LucyLeft0004" x="3005" y="1624" width="601" height="812"/>
+	<SubTexture name="LucyLeft0005" x="3005" y="1624" width="601" height="812"/>
+	<SubTexture name="LucyLeft0006" x="3005" y="1624" width="601" height="812"/>
+	<SubTexture name="LucyLeft0007" x="3005" y="1624" width="601" height="812"/>
+	<SubTexture name="LucyLeft0008" x="3005" y="1624" width="601" height="812"/>
+	<SubTexture name="LucyLeft0009" x="3005" y="1624" width="601" height="812"/>
+	<SubTexture name="LucyLeft0010" x="3005" y="1624" width="601" height="812"/>
+	<SubTexture name="LucyLeft0011" x="3005" y="1624" width="601" height="812"/>
+	<SubTexture name="LucyLeft0012" x="3005" y="1624" width="601" height="812"/>
+	<SubTexture name="LucyLeft0013" x="3005" y="1624" width="601" height="812"/>
+	<SubTexture name="LucyLeft0014" x="3005" y="1624" width="601" height="812"/>
+	
+	<SubTexture name="LucyRight0000" x="0" y="2436" width="601" height="812"/>
+	<SubTexture name="LucyRight0001" x="601" y="2436" width="601" height="812"/>
+	<SubTexture name="LucyRight0002" x="1202" y="2436" width="601" height="812"/>
+	<SubTexture name="LucyRight0003" x="1803" y="2436" width="601" height="812"/>
+	<SubTexture name="LucyRight0004" x="2404" y="2436" width="601" height="812"/>
+	<SubTexture name="LucyRight0005" x="2404" y="2436" width="601" height="812"/>
+	<SubTexture name="LucyRight0006" x="2404" y="2436" width="601" height="812"/>
+	<SubTexture name="LucyRight0007" x="2404" y="2436" width="601" height="812"/>
+	<SubTexture name="LucyRight0008" x="2404" y="2436" width="601" height="812"/>
+	<SubTexture name="LucyRight0009" x="2404" y="2436" width="601" height="812"/>
+	<SubTexture name="LucyRight0010" x="2404" y="2436" width="601" height="812"/>
+	<SubTexture name="LucyRight0011" x="2404" y="2436" width="601" height="812"/>
+	<SubTexture name="LucyRight0012" x="2404" y="2436" width="601" height="812"/>
+	<SubTexture name="LucyRight0013" x="2404" y="2436" width="601" height="812"/>
+	<SubTexture name="LucyRight0014" x="2404" y="2436" width="601" height="812"/>
+	
+	<SubTexture name="LucyDown0000" x="3005" y="2436" width="601" height="812"/>
+	<SubTexture name="LucyDown0001" x="0" y="3248" width="601" height="812"/>
+	<SubTexture name="LucyDown0002" x="601" y="3248" width="601" height="812"/>
+	<SubTexture name="LucyDown0003" x="1202" y="3248" width="601" height="812"/>
+	<SubTexture name="LucyDown0004" x="1803" y="3248" width="601" height="812"/>
+	<SubTexture name="LucyDown0005" x="1803" y="3248" width="601" height="812"/>
+	<SubTexture name="LucyDown0006" x="1803" y="3248" width="601" height="812"/>
+	<SubTexture name="LucyDown0007" x="1803" y="3248" width="601" height="812"/>
+	<SubTexture name="LucyDown0008" x="1803" y="3248" width="601" height="812"/>
+	<SubTexture name="LucyDown0009" x="1803" y="3248" width="601" height="812"/>
+	<SubTexture name="LucyDown0010" x="1803" y="3248" width="601" height="812"/>
+	<SubTexture name="LucyDown0011" x="1803" y="3248" width="601" height="812"/>
+	<SubTexture name="LucyDown0012" x="1803" y="3248" width="601" height="812"/>
+	<SubTexture name="LucyDown0013" x="1803" y="3248" width="601" height="812"/>
+	<SubTexture name="LucyDown0014" x="1803" y="3248" width="601" height="812"/>
+	
+	<SubTexture name="LucyUp0000" x="2404" y="3248" width="601" height="812"/>
+	<SubTexture name="LucyUp0001" x="3005" y="3248" width="601" height="812"/>
+	<SubTexture name="LucyUp0002" x="0" y="4060" width="601" height="812"/>
+	<SubTexture name="LucyUp0003" x="601" y="4060" width="601" height="812"/>
+	<SubTexture name="LucyUp0004" x="1202" y="4060" width="601" height="812"/>
+	<SubTexture name="LucyUp0005" x="1202" y="4060" width="601" height="812"/>
+	<SubTexture name="LucyUp0006" x="1202" y="4060" width="601" height="812"/>
+	<SubTexture name="LucyUp0007" x="1202" y="4060" width="601" height="812"/>
+	<SubTexture name="LucyUp0008" x="1202" y="4060" width="601" height="812"/>
+	<SubTexture name="LucyUp0009" x="1202" y="4060" width="601" height="812"/>
+	<SubTexture name="LucyUp0010" x="1202" y="4060" width="601" height="812"/>
+	<SubTexture name="LucyUp0011" x="1202" y="4060" width="601" height="812"/>
+	<SubTexture name="LucyUp0012" x="1202" y="4060" width="601" height="812"/>
+	<SubTexture name="LucyUp0013" x="1202" y="4060" width="601" height="812"/>
+	<SubTexture name="LucyUp0014" x="1202" y="4060" width="601" height="812"/>
+</TextureAtlas>

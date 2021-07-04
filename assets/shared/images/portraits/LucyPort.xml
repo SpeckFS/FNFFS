@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LucyPort.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Lucy Talk0001" x="299" y="838" width="299" height="419"/>
+	<SubTexture name="Lucy Talk0002" x="0" y="0" width="299" height="419"/>
+	<SubTexture name="Lucy Talk0003" x="299" y="0" width="299" height="419"/>
+	<SubTexture name="Lucy Talk0004" x="598" y="0" width="299" height="419"/>
+	<SubTexture name="Lucy Talk0005" x="0" y="419" width="299" height="419"/>
+	<SubTexture name="Lucy Talk0006" x="299" y="419" width="299" height="419"/>
+	<SubTexture name="Lucy Talk0007" x="598" y="419" width="299" height="419"/>
+	<SubTexture name="Lucy Talk0008" x="0" y="838" width="299" height="419"/>
+	<SubTexture name="Lucy Talk0009" x="299" y="838" width="299" height="419"/>
+</TextureAtlas>

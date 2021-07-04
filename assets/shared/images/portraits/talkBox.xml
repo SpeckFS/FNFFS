@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="talkBox.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="WordTime0000" x="0" y="0" width="1241" height="385"/>
+	<SubTexture name="WordTime0001" x="1241" y="0" width="1241" height="385"/>
+	<SubTexture name="WordTime0002" x="2482" y="0" width="1241" height="385"/>
+	<SubTexture name="WordTime0003" x="0" y="385" width="1241" height="385"/>
+	<SubTexture name="WordTime0004" x="1241" y="385" width="1241" height="385"/>
+</TextureAtlas>

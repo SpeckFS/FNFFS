@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="airship.png">
+	<!-- Created with OpenToonz lmfao -->
+	<!-- bruhsoundeffect2.com -->
+	<SubTexture name="FloatLine0000" x="0" y="0" width="600" height="484"/>
+	<SubTexture name="FloatLine0001" x="600" y="0" width="600" height="484"/>
+	<SubTexture name="FloatLine0002" x="1200" y="0" width="600" height="484"/>
+	<SubTexture name="FloatLine0003" x="1800" y="0" width="600" height="484"/>
+	<SubTexture name="FloatLine0004" x="2400" y="0" width="600" height="484"/>
+	<SubTexture name="FloatLine0005" x="3000" y="0" width="600" height="484"/>
+	<SubTexture name="FloatLine0006" x="3600" y="0" width="600" height="484"/>
+	<SubTexture name="FloatLine0007" x="4200" y="0" width="600" height="484"/>
+	<SubTexture name="FloatLine0008" x="0" y="484" width="600" height="484"/>
+	<SubTexture name="FloatLine0009" x="600" y="484" width="600" height="484"/>
+	<SubTexture name="FloatLine0010" x="1200" y="484" width="600" height="484"/>
+	<SubTexture name="FloatLine0011" x="1800" y="484" width="600" height="484"/>
+	<SubTexture name="FloatLine0012" x="2400" y="484" width="600" height="484"/>
+	<SubTexture name="FloatLine0013" x="3000" y="484" width="600" height="484"/>
+	<SubTexture name="FloatLine0014" x="3600" y="484" width="600" height="484"/>
+	<SubTexture name="FloatLine0015" x="4200" y="484" width="600" height="484"/>
+	<SubTexture name="FloatLine0016" x="0" y="968" width="600" height="484"/>
+	<SubTexture name="FloatLine0017" x="600" y="968" width="600" height="484"/>
+	<SubTexture name="FloatLine0018" x="1200" y="968" width="600" height="484"/>
+	<SubTexture name="FloatLine0019" x="1800" y="968" width="600" height="484"/>
+	<SubTexture name="FloatLine0020" x="2400" y="968" width="600" height="484"/>
+	<SubTexture name="FloatLine0021" x="3000" y="968" width="600" height="484"/>
+	<SubTexture name="FloatLine0022" x="3600" y="968" width="600" height="484"/>
+	<SubTexture name="FloatLine0023" x="4200" y="968" width="600" height="484"/>
+	<SubTexture name="FloatLine0024" x="0" y="1452" width="600" height="484"/>
+	<SubTexture name="FloatLine0025" x="600" y="1452" width="600" height="484"/>
+	<SubTexture name="FloatLine0026" x="1200" y="1452" width="600" height="484"/>
+	<SubTexture name="FloatLine0027" x="1800" y="1452" width="600" height="484"/>
+	<SubTexture name="FloatLine0028" x="2400" y="1452" width="600" height="484"/>
+	<SubTexture name="FloatLine0029" x="3000" y="1452" width="600" height="484"/>
+	<SubTexture name="FloatLine0030" x="3600" y="1452" width="600" height="484"/>
+	<SubTexture name="FloatLine0031" x="4200" y="1452" width="600" height="484"/>
+	<SubTexture name="FloatLine0032" x="0" y="1936" width="600" height="484"/>
+	<SubTexture name="FloatLine0033" x="600" y="1936" width="600" height="484"/>
+	<SubTexture name="FloatLine0034" x="1200" y="1936" width="600" height="484"/>
+	<SubTexture name="FloatLine0035" x="1800" y="1936" width="600" height="484"/>
+	<SubTexture name="FloatLine0036" x="2400" y="1936" width="600" height="484"/>
+	<SubTexture name="FloatLine0037" x="3000" y="1936" width="600" height="484"/>
+	<SubTexture name="FloatLine0038" x="3600" y="1936" width="600" height="484"/>
+	<SubTexture name="FloatLine0039" x="4200" y="1936" width="600" height="484"/>
+	
+</TextureAtlas>

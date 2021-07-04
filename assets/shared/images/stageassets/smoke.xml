@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="smoke.png">
+	<!-- Created with OpenToonz lmfaoo -->
+	<!-- https://twitter.com/speckgb -->
+	<SubTexture name="Float0000" x="0" y="0" width="2557" height="579"/>
+	<SubTexture name="Float0001" x="2557" y="0" width="2557" height="579"/>
+	<SubTexture name="Float0002" x="5114" y="0" width="2557" height="579"/>
+	<SubTexture name="Float0003" x="7671" y="0" width="2557" height="579"/>
+	<SubTexture name="Float0004" x="10228" y="0" width="2557" height="579"/>
+	
+	<SubTexture name="Float0005" x="0" y="579" width="2557" height="579"/>
+	<SubTexture name="Float0006" x="2557" y="579" width="2557" height="579"/>
+	<SubTexture name="Float0007" x="5114" y="579" width="2557" height="579"/>
+	<SubTexture name="Float0008" x="7671" y="579" width="2557" height="579"/>
+	<SubTexture name="Float0009" x="10228" y="579" width="2557" height="579"/>
+
+	<SubTexture name="Float0010" x="0" y="1158" width="2557" height="579"/>
+	<SubTexture name="Float0011" x="2557" y="1158" width="2557" height="579"/>
+	<SubTexture name="Float0012" x="5114" y="1158" width="2557" height="579"/>
+	<SubTexture name="Float0013" x="7671" y="1158" width="2557" height="579"/>
+	<SubTexture name="Float0014" x="10228" y="1158" width="2557" height="579"/>
+	
+	<SubTexture name="Float0015" x="0" y="1737" width="2557" height="579"/>
+	<SubTexture name="Float0016" x="2557" y="1737" width="2557" height="579"/>
+	<SubTexture name="Float0017" x="5114" y="1737" width="2557" height="579"/>
+	<SubTexture name="Float0018" x="7671" y="1737" width="2557" height="579"/>
+	<SubTexture name="Float0019" x="10228" y="1737" width="2557" height="579"/>
+	
+	<SubTexture name="Float0020" x="0" y="2316" width="2557" height="579"/>
+	<SubTexture name="Float0021" x="2557" y="2316" width="2557" height="579"/>
+	<SubTexture name="Float0022" x="5114" y="2316" width="2557" height="579"/>
+	<SubTexture name="Float0023" x="7671" y="2316" width="2557" height="579"/>
+	
+	<SubTexture name="Float0024" x="7671" y="2316" width="2557" height="579"/>
+	<SubTexture name="Float0025" x="5114" y="2316" width="2557" height="579"/>
+	<SubTexture name="Float0026" x="2557" y="2316" width="2557" height="579"/>
+	<SubTexture name="Float0027" x="0" y="2316" width="2557" height="579"/>
+	
+	<SubTexture name="Float0028" x="10228" y="1737" width="2557" height="579"/>
+	<SubTexture name="Float0029" x="7671" y="1737" width="2557" height="579"/>
+	<SubTexture name="Float0030" x="5114" y="1737" width="2557" height="579"/>
+	<SubTexture name="Float0031" x="2557" y="1737" width="2557" height="579"/>
+	<SubTexture name="Float0032" x="0" y="1737" width="2557" height="579"/>
+	
+	<SubTexture name="Float0033" x="10228" y="1158" width="2557" height="579"/>
+	<SubTexture name="Float0034" x="7671" y="1158" width="2557" height="579"/>
+	<SubTexture name="Float0035" x="5114" y="1158" width="2557" height="579"/>
+	<SubTexture name="Float0036" x="2557" y="1158" width="2557" height="579"/>
+	<SubTexture name="Float0037" x="0" y="1158" width="2557" height="579"/>
+	
+	<SubTexture name="Float0038" x="10228" y="579" width="2557" height="579"/>
+	<SubTexture name="Float0039" x="7671" y="579" width="2557" height="579"/>
+	<SubTexture name="Float0040" x="5114" y="579" width="2557" height="579"/>
+	<SubTexture name="Float0041" x="2557" y="579" width="2557" height="579"/>
+	<SubTexture name="Float0042" x="0" y="579" width="2557" height="579"/>
+	
+	<SubTexture name="Float0043" x="10228" y="0" width="2557" height="579"/>
+	<SubTexture name="Float0044" x="7671" y="0" width="2557" height="579"/>
+	<SubTexture name="Float0045" x="5114" y="0" width="2557" height="579"/>
+	<SubTexture name="Float0046" x="2557" y="0" width="2557" height="579"/>
+	<SubTexture name="Float0047" x="0" y="0" width="2557" height="579"/>
+	
+	
+	</TextureAtlas>

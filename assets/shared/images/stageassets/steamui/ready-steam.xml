@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ready-steam.png">
+	<!-- Created with OpenToonz lmfaoo -->
+	<!-- https://twitter.com/speckgb -->
+	<SubTexture name="One0000" x="0" y="0" width="684" height="354"/>
+	<SubTexture name="One0001" x="684" y="0" width="684" height="354"/>
+	<SubTexture name="One0002" x="1368" y="0" width="684" height="354"/>
+	<SubTexture name="One0003" x="2052" y="0" width="684" height="354"/>
+	<SubTexture name="One0004" x="2052" y="0" width="684" height="354"/>
+	<SubTexture name="One0005" x="2052" y="0" width="684" height="354"/>
+	<SubTexture name="One0006" x="2052" y="0" width="684" height="354"/>
+	<SubTexture name="One0007" x="2052" y="0" width="684" height="354"/>
+	<SubTexture name="One0008" x="2052" y="0" width="684" height="354"/>
+	<SubTexture name="One0009" x="2052" y="0" width="684" height="354"/>
+	<SubTexture name="One0010" x="2052" y="0" width="684" height="354"/>
+	<SubTexture name="One0011" x="2052" y="0" width="684" height="354"/>
+	<SubTexture name="One0012" x="2052" y="0" width="684" height="354"/>
+	<SubTexture name="One0013" x="2052" y="0" width="684" height="354"/>
+	<SubTexture name="One0014" x="2052" y="0" width="684" height="354"/>
+	<SubTexture name="One0015" x="2052" y="0" width="684" height="354"/>
+	</TextureAtlas>
+
+	
+
